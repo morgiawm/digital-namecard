@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Heather;Clement;;;
+FN: Clement  Heather 
+ORG:Morgia Wealth Management;
+TITLE:Executive Director of Operations & Client Service
+EMAIL;type=INTERNET;type=WORK;type=pref:hclement@morgiawm.com
+TEL;type=WORK;type=VOICE:+315 222 7155
+item1.ADR;type=WORK;type=pref:;;158 Mullin St\nWatertown\,;;;13601;NY
+item1.X-ABADR:sg
+item2.URL;type=pref:https://morgiawm.com/heather-clement.html
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
