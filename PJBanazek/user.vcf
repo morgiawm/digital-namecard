@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Banazek;PJ;;;
+FN: Banazek  PJ 
+ORG:Morgia Wealth Management;
+TITLE:Managing Director, Partner
+EMAIL;type=INTERNET;type=WORK;type=pref:pjbanazek@morgiawm.com
+TEL;type=WORK;type=VOICE:+3152227150
+item1.ADR;type=WORK;type=pref:;;153 Mullin St\nWatertown\,;;;13601;NY
+item1.X-ABADR:sg
+item2.URL;type=pref:https://morgiawm.com/pj-banazek.html
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

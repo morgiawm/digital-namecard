@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Simser;Shane;;;
+FN: Simser  Shane 
+ORG:Morgia Wealth Management;
+TITLE:Sr. Financial Advisor, Retirement Plan Services
+EMAIL;type=INTERNET;type=WORK;type=pref:ssimser@morgiawm.com
+TEL;type=WORK;type=VOICE:+315 222 7152
+item1.ADR;type=WORK;type=pref:;;155 Mullin St\nWatertown\,;;;13601;NY
+item1.X-ABADR:sg
+item2.URL;type=pref:https://morgiawm.com/shane-simser.html
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Buskey;Zach;;;
+FN: Buskey  Zach 
+ORG:Morgia Wealth Management;
+TITLE:Financial Advisor, Portfolio Management Associate
+EMAIL;type=INTERNET;type=WORK;type=pref:zbuskey@morgiawm.com
+TEL;type=WORK;type=VOICE:+315 222 7154
+item1.ADR;type=WORK;type=pref:;;157 Mullin St\nWatertown\,;;;13601;NY
+item1.X-ABADR:sg
+item2.URL;type=pref:https://morgiawm.com/tony-morgia.html
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
