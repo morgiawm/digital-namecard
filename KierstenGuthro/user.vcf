@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Guthro;Kiersten;;;
+FN: Guthro  Kiersten
+ORG:Morgia Wealth Management;
+TITLE:Client Service Associate
+EMAIL;type=INTERNET;type=WORK;type=pref:kguthro@morgiawm.com
+TEL;type=WORK;type=VOICE:+315 222 7160
+item1.ADR;type=WORK;type=pref:;;163 Mullin St\nWatertown\,;;;13601;NY
+item1.X-ABADR:sg
+item2.URL;type=pref:https://morgiawm.com/kiersten-guthro.html
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

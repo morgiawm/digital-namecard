@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Murphy;Frank;;;
+FN: Murphy  Frank 
+ORG:Morgia Wealth Management;
+TITLE:Director of Trading, Portfolio Management Associate
+EMAIL;type=INTERNET;type=WORK;type=pref:fmurphy@morgiawm.com
+TEL;type=WORK;type=VOICE:+315 222 7158
+item1.ADR;type=WORK;type=pref:;;161 Mullin St\nWatertown\,;;;13601;NY
+item1.X-ABADR:sg
+item2.URL;type=pref:https://morgiawm.com/frank-murphy.html
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD

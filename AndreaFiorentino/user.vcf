@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Fiorentino;Andrea;;;
+FN: Fiorentino  Andrea 
+ORG:Morgia Wealth Management;
+TITLE:Sr. Registered Client Service Associate
+EMAIL;type=INTERNET;type=WORK;type=pref:afiorentino@morgiawm.com
+TEL;type=WORK;type=VOICE:+315 222 7156
+item1.ADR;type=WORK;type=pref:;;159 Mullin St\nWatertown\,;;;13601;NY
+item1.X-ABADR:sg
+item2.URL;type=pref:https://morgiawm.com/andrea-fiorentino.html
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
